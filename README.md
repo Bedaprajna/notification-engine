@@ -1,3 +1,5 @@
+<img width="1349" height="604" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/a63003ab-1b8a-42e8-a368-c53232a53596" />
+<img width="1352" height="602" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/2892d089-9c46-4554-8566-64156b14b53a" />
 # 🚀 Multi-Channel Event Notification Engine
 
 An event-driven, fault-tolerant asynchronous notification engine built with Node.js, SQLite, and React. Engineered to handle background processing, transient failure recovery with automatic retries, Dead Letter Queue (DLQ) isolation, and real-time dashboard telemetry.
